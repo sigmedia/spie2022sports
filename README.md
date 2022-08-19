@@ -11,5 +11,8 @@ SPIE Optics & Photonics 2022 Conference - project page
 
 
 
+<video src='media/red_box_demo.mp4' width="100%"/>
+
+
 ### Studying the effects of training dataset on model performance
 ![Trainig data barchart](media/training_subsets_barchart.png "Trainig data barchart")
